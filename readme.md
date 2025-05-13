@@ -15,3 +15,7 @@ One of the focus points of this was handling unbalanced data regarding data avai
 
 <br>
 This estimate could be applied in bank and insurence industry.
+
+### Data:
+
+a subset of [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)
